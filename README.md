@@ -62,3 +62,43 @@ Monday &ndash; Saturday &middot; 09.00 &ndash; 18.00
 <br>
 
 <sub>Client work lives in private repositories &mdash; this profile is the front door.</sub>
+
+---
+
+<details>
+<summary><b>Türkçe</b></summary>
+
+<br>
+
+### Fikirler burada yükselir
+
+2004'ten beri Kapadokya'da özel yazılım geliştiriyoruz. Hazır kalıp değil, işleyişinize göre yazılan sistemler.
+
+## Ne yapıyoruz
+
+**Özel yazılım** &mdash; işleyişinize göre kodlanan panel ve portallar, hazır şablona sığdırılmış çözümler değil.
+
+**Dijital dönüşüm** &mdash; turizm firmaları için rezervasyondan arka ofise uzanan süreç ve otomasyon.
+
+**Mobil uygulama** &mdash; iOS ve Android, arayüz tasarımıyla birlikte.
+
+**Entegrasyon** &mdash; hâlihazırda kullandığınız sistemler arasında API, rezervasyon, muhasebe ve ERP bağlantıları.
+
+## Nasıl çalışıyoruz
+
+- Her müşteriye tek bir sistem; mevcut işleyişin üzerine kurgulanır.
+- Yirmi yılı aşkın Kapadokya turizm operasyonu deneyimi her kararın arkasında.
+- Tasarım, backend, mobil ve yayına alma aynı ekipte.
+- Türkçe ve İngilizce, aynı ürün üzerinde.
+
+## Stüdyo
+
+**Kapadokya Teknopark** &middot; C Blok CZ21<br>
+NEVÜ Yerleşkesi, 2000 Evler Mah. &middot; Nevşehir, Türkiye<br>
+Pazartesi &ndash; Cumartesi &middot; 09.00 &ndash; 18.00
+
+<br>
+
+<sub>Müşteri projeleri özel (private) depolarda tutulur &mdash; bu profil giriş kapısıdır.</sub>
+
+</details>
