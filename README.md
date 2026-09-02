@@ -74,7 +74,7 @@ Monday &ndash; Saturday &middot; 09.00 &ndash; 18.00
 
 <a name="turkce"></a>
 
-<details>
+<details open>
 <summary><b>Türkçe</b></summary>
 
 <br>
