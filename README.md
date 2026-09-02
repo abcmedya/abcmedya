@@ -17,9 +17,16 @@ Never a template &mdash; systems written around how you work.
   <a href="https://wa.me/905069940194"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-16181D?style=for-the-badge&logo=whatsapp&logoColor=FF2E17"></a>
 </p>
 
+
+<p>
+  <a href="#english"><b>English</b></a> &nbsp;&middot;&nbsp; <a href="#turkce"><b>T&uuml;rk&ccedil;e</b></a>
+</p>
+
 </div>
 
 ---
+
+<a name="english"></a>
 
 ## What we build
 
@@ -64,6 +71,8 @@ Monday &ndash; Saturday &middot; 09.00 &ndash; 18.00
 <sub>Client work lives in private repositories &mdash; this profile is the front door.</sub>
 
 ---
+
+<a name="turkce"></a>
 
 <details>
 <summary><b>Türkçe</b></summary>
